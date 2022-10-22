@@ -14,3 +14,4 @@ b_acc = [0] + list(acc(b))
 
 print(a_acc)
 print(b_acc)
+print(1)
