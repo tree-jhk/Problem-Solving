@@ -80,10 +80,10 @@ for i in range(1, n + 1):
 4 5 1
 5 3 1
 5 6 2
-정점 1 -> 정점 1 까지의 최단 거리: 0
-정점 1 -> 정점 2 까지의 최단 거리: 2
-정점 1 -> 정점 3 까지의 최단 거리: 3
-정점 1 -> 정점 4 까지의 최단 거리: 1
-정점 1 -> 정점 5 까지의 최단 거리: 2
-정점 1 -> 정점 6 까지의 최단 거리: 4
+node 1 -> node 1 shortest path: 0
+node 1 -> node 2 shortest path: 2
+node 1 -> node 3 shortest path: 3
+node 1 -> node 4 shortest path: 1
+node 1 -> node 5 shortest path: 2
+node 1 -> node 6 shortest path: 4
 """
