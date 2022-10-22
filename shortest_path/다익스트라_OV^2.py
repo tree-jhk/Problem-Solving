@@ -62,9 +62,9 @@ for i in range(1, n + 1):
     # 출력할 내용:
     # 정점 start -> 정점 i 까지의 최단 거리: distance[i]
     if distance[i] != INF:
-        print(f"정점 {start} -> 정점 {i} 까지의 최단 거리: {distance[i]}")
+        print(f"node {start} -> node {i} shortest path: {distance[i]}")
     else:
-        print(f"정점 {start} -> 정점 {i} 까지 도달 못함")
+        print(f"node {start} -> node {i} impossible to reach")
 
 """
 6 11
