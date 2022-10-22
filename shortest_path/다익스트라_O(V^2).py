@@ -31,6 +31,7 @@ def get_smallest_node():
             index = i
     return index
 
+# O(v^2)의 시간 복잡도 코드
 def dijkstra(start):
     distance[start] = 0
     visited[start] = True
